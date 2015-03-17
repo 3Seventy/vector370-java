@@ -1,4 +1,3 @@
-*******************
 1. Introduction
 
 Thank you for downloading the 3seventy.client.java.zip file from the 3Seventy website.
