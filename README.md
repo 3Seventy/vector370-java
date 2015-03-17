@@ -1,6 +1,5 @@
 *******************
-* 1. Introduction *
-*******************
+1. Introduction
 
 Thank you for downloading the 3seventy.client.java.zip file from the 3Seventy website.
 
@@ -9,8 +8,7 @@ The zip file contains all the files and examples needed to build your own applic
 This doc explains how to run examples under the "examples" folder.
 
 *******************
-* 2. Requirements *
-*******************
+2. Requirements
 
 The primary 3Seventy client resides in the export folder as 3seventy.java.client-[VERSION].jar, you will
 need to reference this file in your Java project.
@@ -32,8 +30,7 @@ log4j-api-2.0.2
 log4j-core-2.0.2
 
 ***************
-* 3. Building *
-***************
+3. Building
 
 1) Create a Java project and add all specified jar files and the 3seventy.java.client-[VERSION].jar file to the
    project build path.
