@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="lib" path="../contrib/hk2-api-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="../contrib/hk2-locator-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="../contrib/hk2-utils-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="../contrib/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="../contrib/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="../contrib/javax.inject-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="../contrib/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="../contrib/jersey-client-2.12.jar"/>
+	<classpathentry kind="lib" path="../contrib/jersey-common.jar"/>
+	<classpathentry kind="lib" path="../contrib/jersey-guava-2.12.jar"/>
+	<classpathentry kind="lib" path="../contrib/log4j-api-2.0.2.jar"/>
+	<classpathentry kind="lib" path="../contrib/log4j-core-2.0.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

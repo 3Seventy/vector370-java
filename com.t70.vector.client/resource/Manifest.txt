@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Name: com.t70.vector.client
+Specification-Title: 3Seventy Vector Client
+Specification-Vendor: 3Seventy, Inc.
+Specification-Version: 1.0.0
+Implementation-Title: 3Seventy Vector Client
+Implementation-Version: build1
+Implementation-Vendor: 3Seventy, Inc.
